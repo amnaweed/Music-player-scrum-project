@@ -1,0 +1,102 @@
+Title: search section	Point: #	Estimate: $ ###
+
+As a user
+I want to be able to search for song names
+So that I do not have to waste my time looking through the entire list of songs
+
+----------------------------------------------------------------------------------
+
+Title: pause/un-pause	Point: #	Estimate: $ ###
+
+As a user
+I want to be capable of pausing/un-pausing the song
+So that I could stop it if someone talks to me, then un-pause and continue it
+
+----------------------------------------------------------------------------------
+
+Title: next/previous song	Point: #	Estimate: $ ###
+
+As a user
+I want to be able to change to next or previous song
+So that I do not have to listen to a song I do not like
+
+----------------------------------------------------------------------------------
+
+Title: list-view of all songs	Point: #	Estimate: $ ###
+
+As a user
+I want to see all my songs in a list
+So that I can see/select songs from that list
+
+----------------------------------------------------------------------------------
+
+Title: volume changing	Point: #	Estimate: $ ###
+
+As a user
+I want to increase or decrease the volume
+So that I can adjust it to my level of liking
+
+----------------------------------------------------------------------------------
+
+Title: genres	Point: #	Estimate: $ ###
+
+As a user
+I want to sort my songs according to genre
+So that I can listen to the genre that I want
+
+----------------------------------------------------------------------------------
+
+Title: repeat option	Point: #	Estimate: $ ###
+
+As a user
+I want to repeat option
+So that I can listen to my list of songs without manually re-starting it
+
+----------------------------------------------------------------------------------
+
+Title: Alphabetic ordering	Point: #	Estimate: $ ###
+
+As a user
+I want to have my songs in alphabetical order
+So that I can find them easily
+
+----------------------------------------------------------------------------------
+
+Title: repeat one	Point: #	Estimate: $ ###
+
+As a user
+I want to have a repeat option that only repeats one song
+So that I can listen that one song that I want
+
+----------------------------------------------------------------------------------
+
+Title: making playlist	Point: #	Estimate: $ ###
+
+As a user
+I want to be able to make playlists
+So that I can listen only to a group of songs
+
+----------------------------------------------------------------------------------
+
+Title: editing playlist	Point: #	Estimate: $ ###
+
+As a user
+I want to be able to edit my playlists
+So that I do not have to re-make them every time I want to bring a change
+
+----------------------------------------------------------------------------------
+
+Title: favorite option	Point: #	Estimate: $ ###
+
+As a user
+I want to select my favorite songs
+So that I can be able to listen to them whenever I want
+
+----------------------------------------------------------------------------------
+
+Title: song details	Point: #	Estimate: $ ###
+
+As a user
+I want to see the details of a song like (artist, album, year…)
+So that I can differentiate between songs that have similar names
+
